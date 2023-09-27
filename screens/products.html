@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Productos / MaiteShop</title>
+    <link rel="stylesheet" href="/styles/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;700;800&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="header">
+
+        <div class="header__container">
+            <div class="header__container-logoMenu">
+                <a href="index.html">
+                    <img class="logo" src="/assets/logo_maiteShop.svg" alt="logo Maite" />
+                </a>
+
+                <div class="header__menu">
+                    <img class="icon-menu" src="/assets/menuIcon.svg" alt="icon menu" />
+                    <span class="menu">Menú</span>
+                </div>
+            </div>
+
+            <div class="search-contain">
+                <input
+                    class="input-search"
+                    type="search"
+                    placeholder="Buscar en MaiteShop.com"
+                    id="busqueda"
+                    name="busqueda"
+                />
+                <button type="submit">
+                    <img
+                        class="btn-seacrh"
+                        src="/assets/btnSearch.svg"
+                        alt="search-btn"
+                    />
+                </button>
+            </div>
+
+            <div class="containerProduct__sesionCar">
+                <div class="product-sesion-contain">
+                    <div class="sesion-hola-contain">
+                        <span class="saludo-usuario">Hola,</span>
+                        <span class="username-sesion">Usuario</span>
+                        <ul class="product-userKind">
+                            <div class="userKind__contain-user cerrarS">
+                                <li class="userKind__user">Cerrar Sesión</li>
+                            </div>
+                        </ul>
+                    </div>
+                    <img
+                        class="product-sesion-icon-arrow"
+                        src="/assets/icon-arrow.svg"
+                        alt="sesion-icon-arrow"
+                    />
+                </div>
+    
+                <div class="lineDivision"></div>
+    
+                <span class="mis-compras">Mis compras</span>
+    
+                <div class="lineDivision"></div>
+    
+                <img class="heart-icon" src="/assets/icon-heart.svg" alt="heart-icon" />
+    
+                <div class="lineDivision"></div>
+    
+                <img class="car-icon" src="/assets/icon-car.svg" alt="car-icon" />
+            </div>
+            
+      </div>
+    </header>
+    <main>
+      <section class="products">
+        <div class="products__containTitleAgg">
+          <h1 class="products__title">Todos los Productos</h1>
+          <button type="button" class="aggButton">Agregar</button>
+        </div>
+        <div class="kindProduct__container">
+          <!-- Conexión con JSON-SERVER-->
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="footer__container">
+        <img
+          class="footer__logo"
+          src="/assets/logo__footer.svg"
+          alt="logo__footer"
+        />
+        <div class="footer__infoweb">
+          <span class="infoWeb__title">¿Quiénes somos?</span>
+          <span class="infoWeb__title">Política de privacidad</span>
+          <span class="infoWeb__title">Programa de fidelidad</span>
+          <span class="infoWeb__title">Nuestras tiendas</span>
+          <span class="infoWeb__title">Quiero ser franquiciado</span>
+          <span class="infoWeb__title">Anuncie aquí</span>
+        </div>
+        <div class="footer__mensaje">
+          <h4>Hable con nosotros</h4>
+          <input
+            class="footer__mensaje-nombre"
+            type="text"
+            placeholder="Nombre"
+          />
+          <input
+            class="footer__mensaje-msj"
+            type="text"
+            placeholder="Escribe tu mensaje"
+          />
+        </div>
+      </div>
+      <div class="footer__madeBy">
+        <span>Developed by <span class="miWeb">leonfranco.com</span></span>
+      </div>
+    </footer>
+    <script src="/scripts/app.js" type="module"></script>
+    <script src="/scripts/scriptsProductos.js"></script>
+  </body>
+</html>

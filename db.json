@@ -1,0 +1,74 @@
+{
+  "productos": [
+    {
+      "foto": "/assets/Bolso__Sunny.jpg",
+      "name": "Bolso Sunny",
+      "price": "32",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est diam, tempor at maximus volutpat, luctus quis dolor. Pellentesque et accumsan augue, sit amet finibus diam. Vestibulum et aliquam lectus. Sed aliquam diam sem, nec ultrices erat porta ut. Mauris at congue massa. Cras in ante non erat convallis mattis. Morbi laoreet arcu in tellus pharetra laoreet. Proin tortor ligula, ornare ut tincidunt at, varius eget neque",
+      "id": 1
+    },
+    {
+      "foto": "/assets/Bolso__Black.jpg",
+      "name": "Bolso Black",
+      "price": "40",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est diam, tempor at maximus volutpat, luctus quis dolor. Pellentesque et accumsan augue, sit amet finibus diam. Vestibulum et aliquam lectus. Sed aliquam diam sem, nec ultrices erat porta ut. Mauris at congue massa. Cras in ante non erat convallis mattis. Morbi laoreet arcu in tellus pharetra laoreet. Proin tortor ligula, ornare ut tincidunt at, varius eget neque.",
+      "id": 3
+    },
+    {
+      "foto": "https://mariohernandez.vtexassets.com/arquivos/ids/198358/tacon-antonia-negro-mh-glamour_2.jpg?v=637357201978900000",
+      "name": "Tacon soft black",
+      "price": "40",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est diam, tempor at maximus volutpat, luctus quis dolor. Pellentesque et accumsan augue, sit amet finibus diam. Vestibulum et aliquam lectus. Sed aliquam diam sem, nec ultrices erat porta ut. Mauris at congue massa. Cras in ante non erat convallis mattis. Morbi laoreet arcu in tellus pharetra laoreet. Proin tortor ligula, ornare ut tincidunt at, varius eget neque. ",
+      "id": 4
+    },
+    {
+      "foto": "https://www.xoshoes.com/wp-content/uploads/2023/01/FIESTA.ROJO_.jpeg",
+      "name": "Tacon red coin",
+      "price": "46",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est diam, tempor at maximus volutpat, luctus quis dolor. Pellentesque et accumsan augue, sit amet finibus diam. Vestibulum et aliquam lectus. Sed aliquam diam sem, nec ultrices erat porta ut. Mauris at congue massa. Cras in ante non erat convallis mattis. Morbi laoreet arcu in tellus pharetra laoreet. Proin tortor ligula, ornare ut tincidunt at, varius eget neque. ",
+      "id": 5
+    },
+    {
+      "foto": "https://arandacalzado.com/cdn/shop/products/TaconcueronegroCal.jpg?v=1693869393&width=1445",
+      "name": "tacon blacking",
+      "price": "43",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est diam, tempor at maximus volutpat, luctus quis dolor. Pellentesque et accumsan augue, sit amet finibus diam. Vestibulum et aliquam lectus. Sed aliquam diam sem, nec ultrices erat porta ut. Mauris at congue massa. Cras in ante non erat convallis mattis. Morbi laoreet arcu in tellus pharetra laoreet. Proin tortor ligula, ornare ut tincidunt at, varius eget neque. ",
+      "id": 6
+    },
+    {
+      "foto": "https://www.zavatty.com/cdn/shop/products/tacon_para_mujer_5009-Z148-CREMA2_ZAVATTY_2b1q0R_cE.jpg?v=1678141268",
+      "name": "tacon white z",
+      "price": "35",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est diam, tempor at maximus volutpat, luctus quis dolor. Pellentesque et accumsan augue, sit amet finibus diam. Vestibulum et aliquam lectus. Sed aliquam diam sem, nec ultrices erat porta ut. Mauris at congue massa. Cras in ante non erat convallis mattis. Morbi laoreet arcu in tellus pharetra laoreet. Proin tortor ligula, ornare ut tincidunt at, varius eget neque",
+      "id": 7
+    },
+    {
+      "foto": "https://mussicol.vtexassets.com/arquivos/ids/297551/581114-2-.jpg?v=638177171963730000",
+      "name": "bolso orange",
+      "price": "890",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est diam, tempor at maximus volutpat, luctus quis dolor. Pellentesque et accumsan augue, sit amet finibus diam. Vestibulum et aliquam lectus. Sed aliquam diam sem, nec ultrices erat porta ut. Mauris at congue massa. Cras in ante non erat convallis mattis. Morbi laoreet arcu in tellus pharetra laoreet. Proin tortor ligula, ornare ut tincidunt at, varius eget neque. ",
+      "id": 8
+    },
+    {
+      "foto": "https://www.ehshirts.com/wp-content/uploads/2020/08/womens-lightblue-shirt-L.jpg",
+      "name": "Bluee Blouse",
+      "price": "120",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est diam, tempor at maximus volutpat, luctus quis dolor. Pellentesque et accumsan augue, sit amet finibus diam. Vestibulum et aliquam lectus. Sed aliquam diam sem, nec ultrices erat porta ut. Mauris at congue massa. Cras in ante non erat convallis mattis. Morbi laoreet arcu in tellus pharetra laoreet. Proin tortor ligula, ornare ut tincidunt at, varius eget neque. ",
+      "id": 9
+    },
+    {
+      "foto": "https://www.lostreselefantes.com.co/wp-content/uploads/2023/04/13093012/Blusa-Blanca-Materna-Marca-CHARBY-205263020208041.jpg",
+      "name": "blouse white",
+      "price": "89",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est diam, tempor at maximus volutpat, luctus quis dolor. Pellentesque et accumsan augue, sit amet finibus diam. Vestibulum et aliquam lectus. Sed aliquam diam sem, nec ultrices erat porta ut. Mauris at congue massa. Cras in ante non erat convallis mattis. Morbi laoreet arcu in tellus pharetra laoreet. Proin tortor ligula, ornare ut tincidunt at, varius eget neque. ",
+      "id": 10
+    },
+    {
+      "foto": "https://mujeron.pe/wp-content/uploads/2023/08/BLUSA-COLET.jpg",
+      "name": "Blouse naranja",
+      "price": "234",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est diam, tempor at maximus volutpat, luctus quis dolor. Pellentesque et accumsan augue, sit amet finibus diam. Vestibulum et aliquam lectus. Sed aliquam diam sem, nec ultrices erat porta ut. Mauris at congue massa. Cras in ante non erat convallis mattis. Morbi laoreet arcu in tellus pharetra laoreet. Proin tortor ligula, ornare ut tincidunt at, varius eget neque. ",
+      "id": 11
+    }
+  ]
+}
