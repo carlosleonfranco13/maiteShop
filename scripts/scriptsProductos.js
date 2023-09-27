@@ -24,7 +24,7 @@ productIconArrow.addEventListener('click', () => {
 // ===  Cerrar sesión y volver a index.html === //
 const cerrarS = document.querySelector('.cerrarS');
 cerrarS.addEventListener('click', () => {
-    window.location.href="index.html";
+    window.location.href="/index.html";
 })
 
 // ===  Redirect Button Agg New product === //
